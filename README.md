@@ -23,5 +23,4 @@
   <base_password>: base auth password
   
 ### Output:
-  success.txt -> List of all URLs that have status code 200 in Rebelmouse site
-  otherstatus.txt -> List of all URLs with status code different than 200
+  output.cvs -> A copy of all URLs with Content Type text/html, plus 2 new columns at the end with the status code 200 in Rebelmouse site and their respective URLs
