@@ -23,4 +23,4 @@
   <base_password>: base auth password
   
 ### Output:
-  output.cvs -> A copy of all URLs with Content Type text/html, plus 2 new columns at the end with the status code 200 in Rebelmouse site and their respective URLs
+  output.csv -> A copy of all URLs with Content Type text/html, plus 2 new columns at the end with the status code 200 in Rebelmouse site and their respective URLs
